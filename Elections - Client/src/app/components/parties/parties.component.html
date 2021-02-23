@@ -1,0 +1,18 @@
+<h1>רשימת המפלגות:</h1>
+
+<table *ngIf="parties">
+  <thead>
+    <tr>
+      <th>שם המפלגה</th>
+      <th>אודות המפלגה</th>
+      <th>לוגו</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of parties; index as i">
+      <td>{{p.name}}</td>
+      <td>{{p.description}}</td>
+      <td><img [src]="p.imageFileName"></td>
+    </tr>
+  </tbody>
+</table>

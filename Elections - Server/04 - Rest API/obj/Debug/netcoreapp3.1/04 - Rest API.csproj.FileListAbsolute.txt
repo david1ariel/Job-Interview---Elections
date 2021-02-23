@@ -1,0 +1,73 @@
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.exe
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.deps.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.runtimeconfig.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.runtimeconfig.dev.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\04 - Rest API.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Bricelam.EntityFrameworkCore.Pluralizer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\01 - Data Access Logic.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\02 - Business Model Layer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\03 - Business Model Layer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\03 - Business Model Layer.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\01 - Data Access Logic.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\02 - Business Model Layer.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\staticwebassets\04 - Rest API.StaticWebAssets.Manifest.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\staticwebassets\04 - Rest API.StaticWebAssets.xml
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\scopedcss\bundle\04 - Rest API.styles.css
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.RazorTargetAssemblyInfo.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.csproj.CopyComplete
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\obj\Debug\netcoreapp3.1\04 - Rest API.genruntimeconfig.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\04 - Rest API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll

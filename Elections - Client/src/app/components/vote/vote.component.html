@@ -1,0 +1,24 @@
+<p>אנא בחר במפלגה, ולאחר מכן לחץ על 'הצבע'</p>
+<br>
+<br>
+<br>
+<!-- <table *ngIf="parties">
+  <thead>
+    <tr>
+      <th>fhshh</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of parties">
+      <td>{{p.name}}</td>
+    </tr>
+  </tbody>
+</table> -->
+
+<div *ngFor="let p of parties">
+  <label for="{{p.name}}">
+    <input id="{{p.name}}" [value]='p' type="radio" name="parties" [(ngModel)]="partySelected">
+    {{p.name}}
+  </label>
+</div>
+<button (click)='sendVote()'>הצבע</button>

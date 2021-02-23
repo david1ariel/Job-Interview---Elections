@@ -1,0 +1,31 @@
+  <div class="login-container">
+    <div class="login-headline">
+      <h1>כניסה</h1>
+    </div>
+    <form class="form" #formInfo>
+
+      <div>
+        <table>
+          <tr>
+            <td>מס' תעודת זהות:</td>
+            <td><input type="text" name="id" [(ngModel)]="credentials.voterId" required #idInfo="ngModel">
+              <span *ngIf="idInfo.errors?.required && idInfo.touched">יש להזין מס' ת.ז.</span></td>
+          </tr>
+
+
+          <tr>
+            <td>תאריך הנפקה:</td>
+            <td><input type="date" name="idProdDate" [(ngModel)]="credentials.idProdDate" required #idProdDateInfo="ngModel">
+              <span *ngIf="idProdDateInfo.errors?.required && idProdDateInfo.touched">יש להזין תאריך הנפקה</span>
+            </td>
+          </tr>
+
+        </table>
+      </div>
+
+   <button class="btn-login" [disabled]="formInfo.form?.invalid" (click)="login()">כניסה</button>
+    </form>
+
+
+
+  </div>

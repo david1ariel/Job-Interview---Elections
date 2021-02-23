@@ -1,0 +1,12 @@
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\bin\Debug\netcoreapp3.1\02 - Business Model Layer.deps.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\bin\Debug\netcoreapp3.1\02 - Business Model Layer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\bin\Debug\netcoreapp3.1\02 - Business Model Layer.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\bin\Debug\netcoreapp3.1\01 - Data Access Logic.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\bin\Debug\netcoreapp3.1\01 - Data Access Logic.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.csproj.CopyComplete
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\02 - Business Model Layer\obj\Debug\netcoreapp3.1\02 - Business Model Layer.pdb

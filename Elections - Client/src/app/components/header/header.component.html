@@ -1,0 +1,24 @@
+<div class="header">
+
+
+  <div class="headline" #headline routerLink="/home">
+    <h1 #h1>בחירות</h1>
+  </div>
+
+  <div class="auth-container">
+
+    <span class="greetings">{{greetings}}</span>
+    <a *ngIf="!voter" routerLink="/login" class="authNav">כניסה</a>
+    <a *ngIf="voter" class="authNav" (click)="logout()">יציאה</a>
+  </div>
+
+  <div class="menu-container">
+    <nav>
+      <a routerLink="/parties" class="menu-item">מפלגות</a>
+      <a routerLink="/voters" class="menu-item">מצביעים</a>
+      <a (click)="voteNow()" class="menu-item">אני רוצה להצביע!</a>
+      <a routerLink="/system-report" class="menu-item">דו"ח מערכת</a>
+    </nav>
+  </div>
+
+</div>

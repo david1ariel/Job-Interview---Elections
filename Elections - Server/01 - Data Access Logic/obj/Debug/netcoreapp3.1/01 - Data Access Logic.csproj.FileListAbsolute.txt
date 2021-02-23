@@ -1,0 +1,13 @@
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\bin\Debug\netcoreapp3.1\01 - Data Access Logic.deps.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\bin\Debug\netcoreapp3.1\01 - Data Access Logic.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\bin\Debug\netcoreapp3.1\01 - Data Access Logic.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.dll
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.pdb
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\bin\Debug\netcoreapp3.1\01 - Data Access Logic.runtimeconfig.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\bin\Debug\netcoreapp3.1\01 - Data Access Logic.runtimeconfig.dev.json
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+C:\Users\david\מסמכים\Job Interview Prep Excersize\Elections\01 - Data Access Logic\obj\Debug\netcoreapp3.1\01 - Data Access Logic.genruntimeconfig.cache

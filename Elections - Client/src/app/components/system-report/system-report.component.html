@@ -1,0 +1,51 @@
+<h1>דו"ח מערכת</h1>
+
+<div>
+  <label for="searches">חפש לפי:</label>
+
+  <select name="searches" id="searches" (change)="filterBySeclection($event)">
+    <option value='' disabled selected hidden>בחר</option>
+    <option value="city">עיר</option>
+    <option value="id">מספר תעודת זהות</option>
+    <option value="party">מפלגה</option>
+  </select>
+</div>
+
+<br>
+
+<div *ngIf="selectedFilter==='city'">
+  <select name="city" (change)="filterByCity($event)">
+    <option value='' disabled selected hidden>בחר עיר</option>
+    <option value='{{c}}' *ngFor="let c of citiesFilter; let i = index">{{c}}</option>
+  </select>
+</div>
+
+<div *ngIf="selectedFilter==='party'">
+  <select name="party" (change)="filterByParty($event)">
+    <option value='' disabled selected hidden>בחר מפלגה</option>
+    <option value="{{p}}" *ngFor="let p of partiesFilter; let i = index">{{p}}</option>
+  </select>
+</div>
+
+<div *ngIf="selectedFilter==='id'">
+  <input [(ngModel)]="searchIdStr" (ngModelChange)="searchById()" type="text" placeholder="מס' ת.ז. לחיפוש">
+</div>
+
+<br>
+
+<table *ngIf="reportModels">
+  <thead>
+    <tr>
+      <th>מספר תעודת זהות</th>
+      <th>עיר</th>
+      <th>מפלגה</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let r of reportModelsToShow">
+      <td>{{r.voterId}}</td>
+      <td>{{r.city}}</td>
+      <td>{{r.party}}</td>
+    </tr>
+  </tbody>
+</table>

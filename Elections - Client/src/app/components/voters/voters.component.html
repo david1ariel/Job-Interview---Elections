@@ -1,0 +1,26 @@
+<h1>רשימת המפלגות:</h1>
+
+<table *ngIf="voters">
+  <thead>
+    <tr>
+      <th>שם</th>
+      <th>מס' תעודת זהות</th>
+      <th>מין</th>
+      <th>טלפון</th>
+      <th>אימייל</th>
+      <th>תאריך הנפקת תעודת זהות</th>
+      <th>עיר</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of voters; index as i">
+      <td>{{p.fullName}}</td>
+      <td>{{p.voterId}}</td>
+      <td>{{p.gender}}</td>
+      <td>{{p.cellPhone}}</td>
+      <td>{{p.email}}</td>
+      <td>{{p.idProdDate.toString().slice(0, 10)}}</td>
+      <td>{{p.city}}</td>
+    </tr>
+  </tbody>
+</table>
